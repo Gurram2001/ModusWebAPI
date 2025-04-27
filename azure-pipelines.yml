@@ -9,7 +9,7 @@ resources:
 - repo: self
 
 pool:
-  name: NewPool
+  name: NewDev
 
 variables:
   # Container registry service connection established during pipeline creation
